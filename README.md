@@ -4,7 +4,7 @@ I did not ask for data which is not required such as ethnicity, students at Uiow
 
 I also did not ask for biology, asking for gender instead giving the options of Male, Female and Non-binary so that everyone feels included also this was sufficient.
 
-Used the for attribute.
+Used for attribute.
 
 Asked for information which was important and required for research.
 
