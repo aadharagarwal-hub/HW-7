@@ -10,3 +10,9 @@ Used the for attribute.
 
 Asked for information which was important and required for research.
 
+Gave various options for each survery point so that people can answer more accurately.
+
+Used text box for name and major as it is subject to change for each student as their majors might vary.
+
+Completed the WCAG AA level checklist compliance.
+
