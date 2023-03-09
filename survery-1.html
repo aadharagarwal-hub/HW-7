@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Survey page 1</title>
+    <link rel="stylesheet" href="./css/stylesheet.css">
+  </head>
+  <body class="wrapper">
+    <header><h1>Survey Page 1</h1></header>
+    <p><img src="images/Partylife.jpg" alt="Partylife" width="300" height="200"></p>
+
+    <form>
+    <p>Day you like to party:</p>
+    
+      <input type="radio" id="Friday" name="fav_day" value="Friday">
+      <label for="Friday">Friday</label><br>
+      <input type="radio" id="Saturday" name="fav_day" value="Saturday">
+      <label for="Saturday">Saturday</label><br>
+      <input type="radio" id="Both" name="fav_day" value="Both">
+      <label for="Both">Both</label>
+
+      <p>Your Favourite Type of Music</p>
+      <input type="checkbox" id="Music1" name="Music1" value="EDM">
+      <label for="Music1"> I Like EDM</label><br>
+      <input type="checkbox" id="Music2" name="Music2" value="RAP">
+      <label for="Music2"> I Like Rap</label><br>
+      <input type="checkbox" id="Music3" name="Music3" value="Indie">
+      <label for="Music3"> I Like Indie</label>
+      <p>&nbsp;</p>
+
+      <label for="Bar"> Favorite Bar: 
+        <select name="Bar" id="Bar">
+          <option value="" selected> Choose one ... </option>
+          <option value="Brothers"> Brothers </option>
+          <option value="Summit"> Summit </option>
+          <option value="Ellrays"> Ellrays </option>
+          <option value="DC's"> DC's </option>
+        </select>     
+      </label>
+      <p>&nbsp;</p>
+
+  <label for="Major">Your Major:</label><br>
+  <input type="text" id="Major" name="Major" required><br>
+
+  <p>&nbsp;</p>
+
+
+  <button onclick="window.location.href='./survey-2.html';">
+    Next page
+  </button>
+    </form>
+    <p>page 1 of 2</p>
+    <footer>&copy; Aadhar Agarwal, 2023</footer>
+  </body>
+</html>

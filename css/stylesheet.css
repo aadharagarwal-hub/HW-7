@@ -1,0 +1,21 @@
+body {
+  background-color: aliceblue;
+}
+
+.wrapper {
+  background-color: #e8d5f0;
+}
+
+header {
+  background-color: #4a2446;
+  padding: 25px;
+  text-align: center;
+  color: whitesmoke;
+}
+
+footer {
+  background-color: #4a2446;
+  padding: 25px;
+  text-align: center;
+  color: whitesmoke;
+}

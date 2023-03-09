@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Survey page 2</title>
+    <link rel="stylesheet" href="./css/stylesheet.css">
+  </head>
+  <body class="wrapper">
+    <header><h1>Survey Page 2</h1></header>
+
+    <form>
+  <p>Your Name</p>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" required autofocus><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname"><br><br>
+
+  <label for="Gender"> Gender: 
+    <select name="Gender" id="Gender">
+      <option value="" selected> Choose one ... </option>
+      <option value="Male"> Male </option>
+      <option value="Female"> Female </option>
+      <option value="Non-binary"> Non-binary </option>
+    </select>     
+  </label>
+
+  <p>&nbsp;</p>
+
+    <button onclick="window.location.href='./thank-you.html';">
+      Submit survey
+    </button>
+  </form>
+  
+
+<p>page 2 of 2</p>
+<footer>&copy; Aadhar Agarwal, 2023</footer>
+</body>
+</html>
