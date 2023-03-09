@@ -3,6 +3,10 @@ This project is a research survey which collects the data of students studying a
 Some of the good practices I used are:
 
 I did not ask for data which is not required such as ethnicity, students at Uiowa come from all over the world so it is not required for this survery.
+
 I also did not ask for biology and just gender instead giving the options of Male, Female and Non-binary so that everyone feels included also this was sufficient.
+
 Used the for attribute.
+
 Asked for information which was important and required for research.
+
